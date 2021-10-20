@@ -1,0 +1,47 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/me/me",
+    "pages/curriculum/curriculum",
+    "pages/campus/campus",
+    "pages/class/class",
+    "pages/home/home"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "selectedColor": "#5c8dc8",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/home/home",
+        "iconPath": "static/api.png",
+        "selectedIconPath": "static/apiHL.png"
+      },
+      {
+        "text": "班级",
+        "pagePath": "pages/class/class",
+        "iconPath": "static/api.png",
+        "selectedIconPath": "static/apiHL.png"
+      },
+      {
+        "text": "校友圈",
+        "pagePath": "pages/campus/campus",
+        "iconPath": "static/api.png",
+        "selectedIconPath": "static/apiHL.png"
+      },
+      {
+        "text": "个人中心",
+        "pagePath": "pages/me/me",
+        "iconPath": "static/icon/user.png",
+        "selectedIconPath": "static/icon/user_s.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

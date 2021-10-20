@@ -1,0 +1,160 @@
+{
+	"pages": [
+		{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarTitleText": "Super校园"
+		}
+	}, 
+	{
+		"path": "pages/me/me",
+		"style": {
+
+			"navigationBarTitleText": "个人中心",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/curriculum/curriculum",
+		"style": {
+			"navigationBarTitleText": "课程表",
+			"enablePullDownRefresh": false
+		}
+
+	}    ,{
+            "path" : "pages/campus/campus",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "校友圈",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/class/class",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "班级",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/home/home",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "Super校园",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/score/score",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "成绩",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/book/book",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "图书馆",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/map/map",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "校园地图",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/express/express",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "快递服务",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/cc/cc",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "二手交易",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/help/help",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "悬赏互助",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/service/service",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "后勤服务",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/find/find",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "失物招领",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"background": "#efeff4"
+		}
+	},
+	"tabBar": {
+		"selectedColor": "#5c8dc8",
+		"list": [{
+				"text": "首页",
+				"pagePath": "pages/home/home",
+				"iconPath": "static/icon/home.png",
+				"selectedIconPath": "static/icon/homec.png"
+			} , {
+				"text": "班级",
+				"pagePath": "pages/class/class",
+				"iconPath": "static/icon/people.png",
+				"selectedIconPath": "static/icon/peoplec.png"
+			},
+			{
+				"text":"校友圈",
+				"pagePath":"pages/campus/campus",
+				"iconPath":"static/icon/chat.png",
+				"selectedIconPath":"static/icon/chatc.png"
+			},
+			{
+				"text": "个人中心",
+				"pagePath": "pages/me/me",
+				"iconPath": "static/icon/user.png",
+				"selectedIconPath": "static/icon/user_s.png"
+			}
+		]
+	}
+}

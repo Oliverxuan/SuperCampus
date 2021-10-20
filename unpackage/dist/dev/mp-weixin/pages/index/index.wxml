@@ -1,0 +1,1 @@
+<view class="container"><view data-event-opts="{{[['tap',[['goHome',['$event']]]]]}}" bindtap="__e" class="_h1">SuperCampus 点击进入</view></view>

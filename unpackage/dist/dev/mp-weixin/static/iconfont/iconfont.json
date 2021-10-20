@@ -1,0 +1,79 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15341926",
+      "name": "教研",
+      "font_class": "jiaoyan",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "15341928",
+      "name": "成绩",
+      "font_class": "chengji",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "15341932",
+      "name": "审批",
+      "font_class": "shenpi",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "15341933",
+      "name": "请假",
+      "font_class": "qingjia",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "15341934",
+      "name": "值周",
+      "font_class": "zhizhou",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "15342004",
+      "name": "评教",
+      "font_class": "pingjiao",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "15342006",
+      "name": "会议",
+      "font_class": "huiyi_huaban1",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "15342009",
+      "name": "成绩",
+      "font_class": "chengji1",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "15342010",
+      "name": "教研",
+      "font_class": "jiaoyan1",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "15342011",
+      "name": "评语",
+      "font_class": "pingyu",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    }
+  ]
+}

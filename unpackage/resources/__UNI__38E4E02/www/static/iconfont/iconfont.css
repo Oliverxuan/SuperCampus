@@ -1,0 +1,129 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2878411 */
+  /* Color fonts */
+  src: 
+       url('~@/static/iconfont/iconfont.woff2?t=1634635139050') format('woff2'),
+       url('~@/static/iconfont/iconfont.woff?t=1634635139050') format('woff'),
+       url('~@/static/iconfont/iconfont.ttf?t=1634635139050') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-fuxiu:before {
+  content: "\e600";
+}
+
+.icon-xiaoneixueshengqingongzhuxueshanggang:before {
+  content: "\e601";
+}
+
+.icon-shiwuzhaoling:before {
+  content: "\e602";
+}
+
+.icon-ly_huancheng:before {
+  content: "\e603";
+}
+
+.icon-tubiaozhizuomoban9:before {
+  content: "\e60f";
+}
+
+.icon-tubiaozhizuomoban10:before {
+  content: "\e61b";
+}
+
+.icon-tubiaozhizuomoban11:before {
+  content: "\e636";
+}
+
+.icon-a-11-CreditCard:before {
+  content: "\e8b3";
+}
+
+.icon-a-18-Payment:before {
+  content: "\e8ba";
+}
+
+.icon-tubiaozhizuomoban:before {
+  content: "\e60b";
+}
+
+.icon-tubiaozhizuomoban1:before {
+  content: "\e60d";
+}
+
+.icon-tubiaozhizuomoban2:before {
+  content: "\e610";
+}
+
+.icon-tubiaozhizuomoban3:before {
+  content: "\e623";
+}
+
+.icon-tubiaozhizuomoban4:before {
+  content: "\e62a";
+}
+
+.icon-tubiaozhizuomoban5:before {
+  content: "\e62c";
+}
+
+.icon-tubiaozhizuomoban6:before {
+  content: "\e62f";
+}
+
+.icon-tubiaozhizuomoban7:before {
+  content: "\e63a";
+}
+
+.icon-tubiaozhizuomoban8:before {
+  content: "\e643";
+}
+
+.icon-jiaoyan:before {
+  content: "\e611";
+}
+
+.icon-chengji:before {
+  content: "\e612";
+}
+
+.icon-shenpi:before {
+  content: "\e613";
+}
+
+.icon-qingjia:before {
+  content: "\e614";
+}
+
+.icon-zhizhou:before {
+  content: "\e615";
+}
+
+.icon-pingjiao:before {
+  content: "\e616";
+}
+
+.icon-huiyi_huaban1:before {
+  content: "\e617";
+}
+
+.icon-chengji1:before {
+  content: "\e618";
+}
+
+.icon-jiaoyan1:before {
+  content: "\e619";
+}
+
+.icon-pingyu:before {
+  content: "\e61a";
+}
+

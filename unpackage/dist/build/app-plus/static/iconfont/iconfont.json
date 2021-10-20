@@ -1,0 +1,205 @@
+{
+  "id": "2878411",
+  "name": "super",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2726785",
+      "name": "辅修",
+      "font_class": "fuxiu",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "2740292",
+      "name": "校内学生勤工助学上岗",
+      "font_class": "xiaoneixueshengqingongzhuxueshanggang",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "2740333",
+      "name": "失物招领",
+      "font_class": "shiwuzhaoling",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "10691768",
+      "name": "AK-LY换乘",
+      "font_class": "ly_huancheng",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "11738605",
+      "name": "植物",
+      "font_class": "tubiaozhizuomoban9",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "11741695",
+      "name": "招待预申请",
+      "font_class": "tubiaozhizuomoban10",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "11742111",
+      "name": "外出",
+      "font_class": "tubiaozhizuomoban11",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "24930509",
+      "name": "11-Credit Card-信用卡",
+      "font_class": "a-11-CreditCard",
+      "unicode": "e8b3",
+      "unicode_decimal": 59571
+    },
+    {
+      "icon_id": "24930541",
+      "name": "18-Payment-支付",
+      "font_class": "a-18-Payment",
+      "unicode": "e8ba",
+      "unicode_decimal": 59578
+    },
+    {
+      "icon_id": "11738535",
+      "name": "班级圈",
+      "font_class": "tubiaozhizuomoban",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "11738597",
+      "name": "学生请假",
+      "font_class": "tubiaozhizuomoban1",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "11738609",
+      "name": "团队",
+      "font_class": "tubiaozhizuomoban2",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "11741904",
+      "name": "学生选课",
+      "font_class": "tubiaozhizuomoban3",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "11741991",
+      "name": "行政服务台",
+      "font_class": "tubiaozhizuomoban4",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "11742004",
+      "name": "会议室预定",
+      "font_class": "tubiaozhizuomoban5",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "11742024",
+      "name": "沟通",
+      "font_class": "tubiaozhizuomoban6",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "11742156",
+      "name": "合作",
+      "font_class": "tubiaozhizuomoban7",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "11742283",
+      "name": "  日程",
+      "font_class": "tubiaozhizuomoban8",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "15341926",
+      "name": "教研",
+      "font_class": "jiaoyan",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "15341928",
+      "name": "成绩",
+      "font_class": "chengji",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "15341932",
+      "name": "审批",
+      "font_class": "shenpi",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "15341933",
+      "name": "请假",
+      "font_class": "qingjia",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "15341934",
+      "name": "值周",
+      "font_class": "zhizhou",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "15342004",
+      "name": "评教",
+      "font_class": "pingjiao",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "15342006",
+      "name": "会议",
+      "font_class": "huiyi_huaban1",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "15342009",
+      "name": "成绩",
+      "font_class": "chengji1",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "15342010",
+      "name": "教研",
+      "font_class": "jiaoyan1",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "15342011",
+      "name": "评语",
+      "font_class": "pingyu",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    }
+  ]
+}

@@ -1,6 +1,8 @@
 import App from './App'
+import'util/router.js'
 
 import {myRequest} from 'util/api.js'
+
 // #ifndef VUE3
 import Vue from 'vue'
 

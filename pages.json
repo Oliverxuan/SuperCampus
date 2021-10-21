@@ -175,7 +175,7 @@
 			},
 			{
 				"text": "个人中心",
-				"pagePath": "pages/login/login",
+				"pagePath": "pages/me/me",
 				"iconPath": "static/icon/user.png",
 				"selectedIconPath": "static/icon/user_s.png"
 			}

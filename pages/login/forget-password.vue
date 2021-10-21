@@ -57,9 +57,9 @@
 					}
 				},1000);
 			},
-			gotoLogin: function () {
-				uni.navigateTo({
-					url: 'login'
+			gotoLogin: function () {	
+				uni.switchTab({
+					url:"login"
 				})
 			}
 		},

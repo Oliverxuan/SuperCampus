@@ -59,15 +59,15 @@ export default {
 		};
 	},
 	onLoad() {
-		this.getSwipers();
+		// this.getSwipers();
 	},
 	methods: {
-		async getSwipers() {
-			const res = await this.$myRequest({
-				url: '/home/multidata'
-			});
-			this.swiper = res.data.data.banner.list;
-		},
+		// async getSwipers() {
+		// 	const res = await this.$myRequest({
+		// 		url: '/home/multidata'
+		// 	});
+		// 	this.swiper = res.data.data.banner.list;
+		// },
 		grid_index(index) {
 			var goIndex = index.detail.index;
 			console.log(goIndex);

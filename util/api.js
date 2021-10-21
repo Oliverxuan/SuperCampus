@@ -1,4 +1,4 @@
-const BASE_URL="http://152.136.185.210:7878/api/hy66"
+const BASE_URL="http://127.0.0.1:6415"
 
 export const myRequest=(options)=>{
 	return new Promise((resolve,reject)=>{
@@ -7,7 +7,7 @@ export const myRequest=(options)=>{
 			method:options.method || 'GET',
 			data:options.data || {},
 			success:res=>{
-				if(res.statusCode!=200){
+				if(res.statusCode==400 || res.statusCode==500){
 					return uni.showToast({
 						title:"获取数据失败！"
 					})

@@ -119,6 +119,30 @@
                 "enablePullDownRefresh": false
             }
             
+        },{
+            "path" : "pages/login/login",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "登陆",
+                "enablePullDownRefresh": false
+            }
+            
+        },{
+            "path" : "pages/login/registration",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "注册",
+                "enablePullDownRefresh": false
+            }
+            
+        },{
+            "path" : "pages/login/forget-password",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "忘记密码",
+                "enablePullDownRefresh": false
+            }
+            
         }
     ],
 	"globalStyle": {
@@ -151,7 +175,7 @@
 			},
 			{
 				"text": "个人中心",
-				"pagePath": "pages/me/me",
+				"pagePath": "pages/login/login",
 				"iconPath": "static/icon/user.png",
 				"selectedIconPath": "static/icon/user_s.png"
 			}
